@@ -1,0 +1,25 @@
+{
+  "name": "hmrc-frontend",
+  "version": "1.0.0",
+  "description": "Design patterns for HMRC frontends",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmrc/hmrc-frontend.git"
+  },
+  "keywords": [
+    "HMRC",
+    "frontend",
+    "design patterns"
+  ],
+  "author": {
+    "name": "HM Revenue and Customs",
+    "email": "service-design-tools@digital.hmrc.gov.uk"
+  },
+  "bugs": {
+    "url": "https://github.com/hmrc/hmrc-frontend/issues"
+  },
+  "homepage": "https://github.com/hmrc/hmrc-frontend#readme",
+  "dependencies": {
+    "govuk-frontend": "^3.0.0"
+  }
+}
